@@ -15,18 +15,6 @@ MUD (Multi-User Dungeon) is a text-based adventure game where players explore ro
 2. Open the project in any Java-compatible IDE (IntelliJ IDEA, VS Code, etc.).
 3. Compile and run `Main.java`.
 
-## Project Structure
-```
-DP-15-02-MUD-game/
-│── src/
-│   │── Main.java              # Main file of the program
-│   │── MUDController.java     # Handles commands and game logic
-│   │── Player.java            # Player class (inventory, current room)
-│   │── Item.java              # Item class (name, description)
-│   │── Room.java              # Room class (types, items, directions)
-│── README.md                  # This file
-```
-
 ## Commands
 The following commands are available in the game:
 
